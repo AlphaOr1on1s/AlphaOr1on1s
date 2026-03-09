@@ -1,6 +1,6 @@
 Designing systems that still work when the network disappears.
 
-# 👋 Hi, I'm Joel
+# 👋 Hi...
 
 Security enthusiast, builder of strange things and explorer of digital systems.  
 Currently working as a **Data Security Consultant** and finishing my **BSc in Information & Cyber Security**.
@@ -86,11 +86,14 @@ Secure messaging preferred.
 
 ## ⚡ Fun Fact
 
-Most systems assume the internet is always available.
+## 🌟 Why the name *AlphaOr1on1s*
 
-Many parts of the world prove that assumption wrong.
+My username comes from **α Orionis (Alpha Orionis)** — the star better known as **Betelgeuse** in the Orion constellation.
 
-That's where interesting engineering starts.
+Interestingly, **Betelgeuse itself exists because of a historical typo**.  
+The name comes from the Arabic term **"Yad al-Jauzā’"** (يد الجوزاء), meaning *“the hand of Orion”*. During medieval transcription into Latin, the Arabic letter **yā (ي)** was misread as **bā (ب)**, turning *Yad* into *Bad/Bait*, which eventually evolved into **Betelgeuse**.
+
+Betelgeuse itself is also fascinating: it’s a **massive red supergiant**, one of the largest visible stars, and astronomers expect it to eventually explode as a **supernova** — sometime in the next ~100,000 years.
 
 <!---
 AlphaOr1on1s/AlphaOr1on1s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
