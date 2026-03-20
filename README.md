@@ -84,8 +84,6 @@ Secure messaging preferred.
 
 ---
 
-## ⚡ Fun Fact
-
 ## 🌟 Why the name *AlphaOr1on1s*
 
 My username comes from **α Orionis (Alpha Orionis)** — the star better known as **Betelgeuse** in the Orion constellation.
