@@ -17,14 +17,6 @@ I enjoy designing systems that work **securely, privately and even without the i
 🔗 Cryptography & Blockchain Systems  
 ⚙️ Open Source & Knowledge Accessibility
 
-My current bachelor thesis explores:
-
-> **Offline-First architectures and data-sovereign systems**  
-> Designing a companion app for **Kiwix / Offspot** to manage updates and data in disconnected environments.
-
-The idea:  
-Build systems that still work when the internet doesn't.
-
 ---
 
 ## 🛠 Things I Like To Work With
